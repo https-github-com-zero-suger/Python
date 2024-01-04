@@ -13,7 +13,7 @@
 
  - YouTube : www.youtube.com/@NEURONS-UZ 
  - Website : https://zero-suger.github.io/Neurons/ 
- - GitHub Link : https://github.com/orgs/https-github-com-zero-suger/repositories 
+ - GitHub Link : https://github.com/orgs/https-github-com-zero-suger/repositories  -> Python
  - Telegram : https://t.me/NEURONS199816 
  - Gmail : uacoding01@gmail.com
 
