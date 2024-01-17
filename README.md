@@ -3,7 +3,14 @@ Assalomu Aleykum
 
 Barcha Python Darslari, PPT lar va codlar aynan shu yerda
 
-Barcha Folder nomlari {a}_{b}_{c} formatida nomlangan.
 
-{a} - darsning ketma-ketligi
-{b} va {c} - darsning maqsadi
+## Folder larning nomlanishi : 
+
+
+```bash
+  {a}_{b}_{d} : {darsning ketma ketligi soni}_{darsning_maqsadi}_{darsning_maqsadi}
+
+  Masalan : 01_Python_O'rnatish : 1 - Dars va Python ni o'rnatish bu maqsad. 
+```
+
+
