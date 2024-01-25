@@ -10,7 +10,7 @@
 
 **Qo'shimcha taklif, fikr va savollar uchun :**
 
- - YouTube : www.youtube.com/@NEURONS-UZ 
+ - YouTube : https://youtu.be/-CeiacAO7zE
  - Website : https://zero-suger.github.io/Neurons/ 
  - GitHub Link : https://github.com/orgs/https-github-com-zero-suger/repositories  -> Python 4_Comment_Variables
  - Telegram : https://t.me/NEURONS199816 
