@@ -12,7 +12,7 @@
 
 **Qo'shimcha taklif, fikr va savollar uchun :**
 
- - YouTube : https://youtu.be/Xc2stJHy_IQhttps://youtu.be/Xc2stJHy_IQ 
+ - YouTube : https://youtu.be/Xc2stJHy_IQ
  - Website : https://zero-suger.github.io/Neurons/ 
  - GitHub Link : https://github.com/orgs/https-github-com-zero-suger/repositories  -> Python
  - Telegram : https://t.me/NEURONS199816 
